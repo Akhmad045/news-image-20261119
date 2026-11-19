@@ -1,8 +1,8 @@
 # WORLD NEWS — Thursday, 19 November 2026 in One Image
 
-![Make.fun entry](https://make.fun/api/competitions/news-image-20261119/badge.svg)
-![Rank](https://make.fun/api/competitions/news-image-20261119/badge/rank.svg?repo=Akhmad045%2Fnews-image-20261119)
-![Reward](https://make.fun/api/competitions/news-image-20261119/badge/reward.svg?repo=Akhmad045%2Fnews-image-20261119)
+[![make.fun · news-image-20261119](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![rank](https://make.fun/badge/news-image-20261119/Akhmad045/news-image-20261119/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![reward](https://make.fun/badge/news-image-20261119/Akhmad045/news-image-20261119/reward.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
 
 This entry squeezes the whole of Thursday, 19 November 2026 onto a single square newspaper front page. Under a classic broadsheet masthead and a deep-red date line that cannot be missed, the lead story — Trump, Xi and Putin meeting in Shenzhen for the first trilateral summit — takes the top of the page with a drawn summit scene of three flags, a long negotiation table and the Shenzhen skyline. Five more stories fill the ruled grid below, each with its own small flat-style illustration, a red section tag, a dateline, a bold serif headline and a short factual caption: the ICJ ruling on the Rohingya genocide case in The Hague, Iran's drone strikes on US bases in the Gulf, Israeli tanks crossing Gaza's Yellow Line, the deadlocked COP31 talks in Antalya, and Anthropic's record-breaking IPO in New York. Every fact on the page comes from that day's wire reporting; nothing is invented, and the layout is fixed, so the picture is identical every time the program runs.
 
